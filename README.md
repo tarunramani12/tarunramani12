@@ -1,21 +1,25 @@
-## Hi there 👋 I am Tarun
+# Hi there 👋 I am Tarun
+
 
 🎥 Cinematographer | Media Engineer | Content Strategist
 
 📍 Based in Munich, Germany
 
 
+
 ## 👀 About Me
 
 🎥 With 12+ years of experience as a cinematographer and filmmaker, I craft compelling visual stories that captivate audiences.
 
-🎓 With an ongoing Master's in Media Engineering, I blend creative storytelling with technical expertise.
+📟 With an ongoing master's degree, I blend creative storytelling with technical expertise.
 
 
 ## 🔥 What I Do
 
 
-👔 Werkstudent at Sky Deutschland - Content supply-chain, metadata, media workflows, Telestream Vantage and emerging standards
+👔 Werkstudent at [Sky Deutschland](https://www.sky.de) - Content supply-chain, metadata, media workflows, Telestream Vantage and emerging standards
+
+🎓 Master's Research in Media Engineering - [Technische Universität Ilmenau](https://www.tu-ilmenau.de)
 
 🎬 Cinematography – Capturing stunning visuals, from narrative films to commercial content
 
@@ -37,17 +41,19 @@
 ## 📌 Let's Connect!
 
 
+✉️ [Email](tarunramani12@gmail.com)
+
 🎥 [IMDb](https://www.imdb.com/name/nm7049244/)
 
 📷 [Instagram](https://www.instagram.com/instarunramani/)
 
 💼 [LinkedIn](https://www.linkedin.com/in/tarunramani12/)
 
-🌐 [Cinematography](https://tarunramani12.wixsite.com/tarunramani)
+🌐 [Cinematography Portfolio](https://tarunramani12.wixsite.com/tarunramani)
 
 
 
-🔹 Always open to collaborations, creative projects, and tech-driven media innovations!
+🔹 Always open to collaborations, creative projects, and tech-driven media innovations! 🔹
 
 
 
