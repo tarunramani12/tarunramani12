@@ -1,12 +1,6 @@
 # Hi there 👋 I am Tarun
 
 
-🎥 Cinematographer | Media Engineer | Content Strategist
-
-📍 Based in Munich, Germany
-
-
-
 ## 👀 About Me
 
 🎥 With 12+ years of experience as a cinematographer and filmmaker, I craft compelling visual stories that captivate audiences.
