@@ -13,7 +13,7 @@
     <img src="https://github.com/tarunramani12/tarunramani12/blob/main/instagram_logo.png" width="60">
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://tarunramani12.wixsite.com/tarunramani">
-    <img src="https://github.com/tarunramani12/tarunramani12/blob/main/www_logo.png" width="60">
+    <img src="https://github.com/tarunramani12/tarunramani12/blob/main/camera_logo.png" width="60">
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><br>
