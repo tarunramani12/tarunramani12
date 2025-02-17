@@ -27,7 +27,7 @@
 <br><br>
 ## 🔥 What I Do
 
-👔 Werkstudent at [Sky Deutschland](https://www.sky.de) - Content supply-chain, metadata, media workflows, Telestream Vantage and emerging standards
+👔 Werkstudent at [Sky Deutschland](https://www.sky.de) - Content supply-chain, metadata, media workflows, Telestream Vantage
 
 🎓 Master's Research in Media Engineering - [Technische Universität Ilmenau](https://www.tu-ilmenau.de)
 
